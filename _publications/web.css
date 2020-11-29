@@ -36,6 +36,25 @@
   text-align: center;
 }
 
+.paper_link {
+  overflow: visible;
+  margin-bottom: 0px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: transparent;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: transparent;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: transparent;
+  color: rgb((255,255,255));
+  font-size: 20px;
+  text-align: center;
+}
 
 .abstract {
   font-size: 17px;
