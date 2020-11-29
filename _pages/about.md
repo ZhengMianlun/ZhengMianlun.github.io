@@ -31,8 +31,9 @@ redirect_from:
 -->
 
 <div align="center">
-  <!-- <img src="/images/siggraph2019.jpg" width="280"/> -->
-  <iframe src="https://drive.google.com/file/d/1HimzV16RnBVuyyouuNFE_IFXTsDnctPx/preview" width="280" height="373" style="border: none"></iframe>
+<!--   <img src="/images/siggraph2019.jpg" width="280"/> -->
+<!--   <iframe src="https://drive.google.com/file/d/1HimzV16RnBVuyyouuNFE_IFXTsDnctPx/preview" width="280" height="373" style="border: none"></iframe> -->
+  <img src="https://drive.google.com/uc?id=1HimzV16RnBVuyyouuNFE_IFXTsDnctPx" width="280"/>
 </div>
 <div align="center">
   2019 Siggraph @ Los Angeles, with my idol Lay Zhang.
