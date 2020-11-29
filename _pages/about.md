@@ -32,7 +32,7 @@ redirect_from:
 
 <div align="center">
   <!-- <img src="/images/siggraph2019.jpg" width="280"/> -->
-  <iframe src="https://drive.google.com/file/d/1HimzV16RnBVuyyouuNFE_IFXTsDnctPx/preview" width="640" height="480"></iframe>
+  <iframe src="https://drive.google.com/file/d/1HimzV16RnBVuyyouuNFE_IFXTsDnctPx/preview" width="280" height="373"></iframe>
 </div>
 <div align="center">
   2019 Siggraph @ Los Angeles, with my idol Lay Zhang.
