@@ -1,0 +1,126 @@
+/* ==========================================================================
+   Start of custom CSS
+   ========================================================================== */
+
+.title_section {
+  padding-bottom: 30px;
+  padding-top: 30px;
+  background-color: hsla(215.2380952380952, 40.65%, 69.61%, 1.00);
+  font-size: 25px;
+}
+
+.papertitle {
+  margin-bottom: 0px;
+  color: rgb((242,243,243));
+  text-align: center;
+}
+
+
+.authors {
+  overflow: visible;
+  margin-bottom: 30px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: transparent;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: transparent;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: transparent;
+  color: rgb((242,243,243));
+  font-size: 20px;
+  text-align: center;
+}
+
+
+.abstract {
+  font-size: 17px;
+}
+
+.text{
+	text-align:justify;
+}
+
+.text_italic{
+	font-style: italic; 
+	font-size: 18px; 
+	margin-bottom: 0px; 
+	color: rgb(120, 120, 120); 
+	font-weight:normal
+}
+
+.list_section {
+  background-color: hsla(215.2380952380952, 0.00%, 100.00%, 0.50);
+  color: hsla(212, 0.00%, 0.00%, 1.00);
+  /*font-size: 10px;*/
+}
+
+
+.container-3 {
+  margin-bottom: 0px;
+}
+
+
+
+
+.container {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+
+.container-2 {
+  margin-bottom: 0px;
+}
+
+
+.experimenttitle {
+  margin-top: 30px;
+  text-align: left;
+}
+
+.videoresult {
+  height: 400px;
+  margin-bottom: 15px;
+}
+
+
+.video {
+  height: 400px;
+}
+
+
+.column {
+  height: 400px;
+}
+
+.heading-2 {
+  font-style: italic;
+  font-size: 18px;
+  margin-bottom: 0px;
+  color: rgb(120, 120, 120);
+  font-weight:normal
+}
+
+.heading-3 {
+  font-style: italic;
+  font-size: 18px;
+  margin-bottom: 0px;
+  color: rgb(120, 120, 120);
+  font-weight:normal
+}
+
+.paragraph {
+  font-size: 16px;
+}
+
+
+.subexperimenttitle {
+  margin-top: 25px;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
