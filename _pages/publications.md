@@ -5,14 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2020
-<b>[3D Character Dynamics]()</b><br> 
+<b>[A Deep Emulator for Secondary Motion of 3D Characters]()</b><br> 
 [[paper]()] [[project page](https://zhengmianlun.github.io/publications/deepEmulator.html)]<br>
 <span style="text-align: justify;">
-In progress.
-<!-- <b>Mianlun Zheng</b>, Yi Zhou, Duygy Ceylan, Jernej Barbic. -->
+<b>Mianlun Zheng</b>, Yi Zhou, Duygy Ceylan, Jernej Barbic. <i> CVPR 2021 </i>
 </span> 
 
-<b>[Adjustable Constrained Soft-Tissue Dynamics]()</b><br> 
+<b>[Adjustable Constrained Soft-Tissue Dynamics](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14127)</b><br> 
 [[paper](/publications/papers/adjustableDynamics.pdf)] [[project page](https://zhengmianlun.github.io/publications/adjustableDynamics.html)]<br>
 <span style="text-align: justify;">
 Bohan Wang*, <b>Mianlun Zheng*</b>, Jernej Barbic. <i>Pacific Graphics 2020 and Computer Graphics Forum.</i> * equal first authors.
