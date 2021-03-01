@@ -6,7 +6,7 @@
   padding-bottom: 30px;
   padding-top: 30px;
   background-color: hsla(215.2380952380952, 40.65%, 69.61%, 1.00);
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .papertitle {
@@ -19,7 +19,7 @@
 .authors {
   overflow: visible;
   margin-bottom: 0px;
-  margin-top: 15px;
+  margin-top: 10px;
   border-top-style: solid;
   border-top-width: 1px;
   border-top-color: transparent;
@@ -40,7 +40,7 @@
 .paper_link {
   overflow: visible;
   margin-bottom: 0px;
-  margin-top:15px;
+  margin-top:10px;
   border-top-style: solid;
   border-top-width: 1px;
   border-top-color: transparent;
