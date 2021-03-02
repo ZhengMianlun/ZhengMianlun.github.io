@@ -11,7 +11,7 @@ author_profile: true
 <b>Mianlun Zheng</b>, Yi Zhou, Duygy Ceylan, Jernej Barbic. <i> CVPR 2021. </i>
 </span> 
 
-## 2021
+## 2020
 <b>[Adjustable Constrained Soft-Tissue Dynamics](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14127)</b><br> 
 [[paper](/publications/papers/adjustableDynamics.pdf)] [[project page](https://zhengmianlun.github.io/publications/adjustableDynamics.html)]<br>
 <span style="text-align: justify;">
