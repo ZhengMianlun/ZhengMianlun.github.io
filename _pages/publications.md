@@ -8,7 +8,7 @@ author_profile: true
 <b>[A Deep Emulator for Secondary Motion of 3D Characters]()</b><br> 
 [[paper]()] [[project page](https://zhengmianlun.github.io/publications/deepEmulator.html)]<br>
 <span style="text-align: justify;">
-<b>Mianlun Zheng</b>, Yi Zhou, Duygy Ceylan, Jernej Barbic. <i> CVPR 2021. </i>
+<b>Mianlun Zheng</b>, Yi Zhou, Duygy Ceylan, Jernej Barbic. <i> Conference on Computer Vision and Pattern Recognition (CVPR), 2021. <b>(Oral Presentation.)</b></i>
 </span> 
 
 ## 2020
