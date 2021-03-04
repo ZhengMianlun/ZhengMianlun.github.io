@@ -43,9 +43,11 @@ redirect_from:
 <br/>
 <br/>
 # Recent News
+* Excited news! I got an oral acceptance to CVPR 2021. Please check out my publication page for interesting demos~
+
 * Here comes the new semester. Due to the Covid-19, we still have to work from home. Stay healthy and happy!
 
-* I've finished the three-month internship at Adobe Research. I appreciated my mentor Yi Zhou for her kindful guidance. We are going to continue our project this semester.  
+* I've finished the three-month internship at Adobe Research. I appreciated my mentor Yi Zhou for her kindful guidance. We are going to continue our project this semester. 
 
 * My paper regarding the 6-DoF haptic based virtual assembly training was accepted to the journal. And my paper about controlling the secondary motion in physical simulator was also accepted to a conference.
 
