@@ -8,20 +8,20 @@ author_profile: true
 <b>[A Deep Emulator for Secondary Motion of 3D Characters](https://arxiv.org/abs/2103.01261)</b><br> 
 [[paper](https://arxiv.org/abs/2103.01261)] [[project page](https://zhengmianlun.github.io/publications/deepEmulator.html)]<br>
 <span style="text-align: justify;">
-<b>Mianlun Zheng</b>, Yi Zhou, Duygy Ceylan, Jernej Barbic. <i> Conference on Computer Vision and Pattern Recognition (CVPR), 2021. <b>(Oral Presentation)</b></i>
+<b>Mianlun Zheng</b>, Yi Zhou, Duygy Ceylan, Jernej Barbič. <i> Conference on Computer Vision and Pattern Recognition (CVPR), 2021. <b>(Oral Presentation)</b></i>
 </span> 
 
 ## 2020
 <b>[Adjustable Constrained Soft-Tissue Dynamics](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14127)</b><br> 
 [[paper](/publications/papers/adjustableDynamics.pdf)] [[project page](https://zhengmianlun.github.io/publications/adjustableDynamics.html)]<br>
 <span style="text-align: justify;">
-Bohan Wang*, <b>Mianlun Zheng*</b>, Jernej Barbic. <i>Pacific Graphics 2020 and Computer Graphics Forum.</i> * equal first authors.
+Bohan Wang*, <b>Mianlun Zheng*</b>, Jernej Barbič. <i>Pacific Graphics 2020 and Computer Graphics Forum.</i> * equal first authors.
 </span> 
 
 <b>[Evaluating the Efficiency of Six-DoF Haptic Rendering-Based Virtual Assembly Training](https://ieeexplore.ieee.org/abstract/document/9140419)</b><br> 
 [[paper](/publications/papers/virtualAssembly.pdf)] [[project page](https://zhengmianlun.github.io/publications/virtualAssembly.html)]<br>
 <span style="text-align: justify;">
-<b>Mianlun Zheng</b>, Danyong Zhao, Jernej Barbic. <i>IEEE Transactions on Haptics, accepted for final publication.</i>
+<b>Mianlun Zheng</b>, Danyong Zhao, Jernej Barbič. <i>IEEE Transactions on Haptics, accepted for final publication.</i>
 </span> 
 
 
