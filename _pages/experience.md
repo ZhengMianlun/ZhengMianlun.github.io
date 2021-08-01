@@ -4,6 +4,10 @@ permalink: /experience/
 author_profile: true
 ---
 
+### Research intern at Facebook Reality Lab, May 2021 - August 2021, Los Angeles US
+Virtual human simulation.
+
+
 ### Research intern at Adobe Research, May 2020 - August 2020, Los Angeles US
 Explore the problem that utilizing a deep learning model to create secondary motion to the character animation.
 
