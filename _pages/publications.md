@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2021
+
+<b>[Preference-Driven Texture Modeling Through Interactive Generation and Search]()</b><br> 
+[[paper](https://arxiv.org/abs/2103.01261)] [[code](https://github.com/ZhengMianlun/deep_emulator)] [[project page](https://zhengmianlun.github.io/publications/deepEmulator.html)]<br>
+<span style="text-align: justify;">
+Shihan Lu, <b>Mianlun Zheng</b>, Matthew C. Fontaine, Stefanos Nikolaidis, Heather Culbertson. <i> Submitted to IEEE Transactions on Haptics. </i>
+</span> 
+
+
+
 <b>[A Deep Emulator for Secondary Motion of 3D Characters](https://arxiv.org/abs/2103.01261)</b><br> 
 [[paper](https://arxiv.org/abs/2103.01261)] [[code](https://github.com/ZhengMianlun/deep_emulator)] [[project page](https://zhengmianlun.github.io/publications/deepEmulator.html)]<br>
 <span style="text-align: justify;">
