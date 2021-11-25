@@ -21,7 +21,7 @@ Bohan Wang*, <b>Mianlun Zheng*</b>, Jernej Barbič. <i>Pacific Graphics 2020 and
 <b>[Evaluating the Efficiency of Six-DoF Haptic Rendering-Based Virtual Assembly Training](https://ieeexplore.ieee.org/abstract/document/9140419)</b><br> 
 [[paper](/publications/papers/virtualAssembly.pdf)] [[project page](https://zhengmianlun.github.io/publications/virtualAssembly.html)]<br>
 <span style="text-align: justify;">
-<b>Mianlun Zheng</b>, Danyong Zhao, Jernej Barbič. <i>IEEE Transactions on Haptics, accepted for final publication.</i>
+<b>Mianlun Zheng</b>, Danyong Zhao, Jernej Barbič. <i>IEEE Transactions on Haptics, 14(1): 212-224.</i>
 </span> 
 
 
