@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* My name is Mianlun Zheng (郑棉仑). I am a third-year Ph.D student in the [Department of Computer Science](https://www.cs.usc.edu/) at [University of Southern California](https://www.usc.edu/). My advisor is Professor [Jernej Barbič](http://barbic.usc.edu/). Here is my CV: [Curriculum Vitae](/files/CV.pdf).
+* My name is Mianlun Zheng (郑棉仑). I am a forth-year Ph.D student in the [Department of Computer Science](https://www.cs.usc.edu/) at [University of Southern California](https://www.usc.edu/). My advisor is Professor [Jernej Barbič](http://barbic.usc.edu/). Here is my CV: [Curriculum Vitae](/files/CV.pdf).
 
 * I received my Bachelor's degree and Master's degree in [Wuhan University](https://en.whu.edu.cn/) .
 
