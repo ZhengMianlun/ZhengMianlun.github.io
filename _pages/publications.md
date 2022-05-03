@@ -9,7 +9,7 @@ author_profile: true
 <b>[Preference-Driven Texture Modeling Through Interactive Generation and Search]()</b><br> 
 [[paper]()] [[project page]()]<br>
 <span style="text-align: justify;">
-Shihan Lu, <b>Mianlun Zheng</b>, Matthew C. Fontaine, Stefanos Nikolaidis, Heather Culbertson. <i> Submitted to IEEE Transactions on Haptics. </i>
+Shihan Lu, <b>Mianlun Zheng</b>, Matthew C. Fontaine, Stefanos Nikolaidis, Heather Culbertson. <i> Accepted to IEEE Transactions on Haptics. </i>
 </span> 
 
 
