@@ -43,6 +43,8 @@ redirect_from:
 <br/>
 <br/>
 # Recent News
+* Another research internship at Meta Relatiy Labs! This year we did it in person!!! I would like to say thank you to Breannan, Javier and Takaaki for their support throughout my project. I'm really proud of what we have done!
+
 * My research internship at Facebook Reality Labs has ended. I had incredibly amazing experience being an intern there. Thanks to my manager Tuur for his support and guidance. Thanks to other peers for their advice to my project, Ladislav, Breannan and Marie-Lena. Thanks to Courtney and Braelena for pushing the recruiting process and their kindful support during the summer. 
 
 * Excited news! I got an oral acceptance to CVPR 2021. Please check out my publication page for interesting demos~
