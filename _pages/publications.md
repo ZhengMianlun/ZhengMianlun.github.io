@@ -6,8 +6,6 @@ author_profile: true
 ---
 ## 2022
 
-\underline{Mianlun Zheng}, Bohan Wang, Jingtao Huang, Jernej Barbi\v{c}. {\bf{}}, .
-
 <b>[Simulation of Hand Anatomy Using Medical Imaging]()</b><br> 
 [[paper]()] [[project page](https://zhengmianlun.github.io/publications/handAnatomy.html)]<br>
 <span style="text-align: justify;">
