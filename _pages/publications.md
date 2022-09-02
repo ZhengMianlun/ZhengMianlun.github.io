@@ -6,12 +6,19 @@ author_profile: true
 ---
 ## 2022
 
+\underline{Mianlun Zheng}, Bohan Wang, Jingtao Huang, Jernej Barbi\v{c}. {\bf{}}, .
+
+<b>[Simulation of Hand Anatomy Using Medical Imaging]()</b><br> 
+[[paper]()] [[project page](https://zhengmianlun.github.io/publications/handAnatomy.html)]<br>
+<span style="text-align: justify;">
+<b>Mianlun Zheng</b>, Bohan Wang, Jingtao Huang, Jernej Barbič. <i> Accepted by SIGGRAPH Asia 2022. </i>
+</span> 
+
 <b>[Preference-Driven Texture Modeling Through Interactive Generation and Search](https://ieeexplore.ieee.org/document/9772285)</b><br> 
 [[paper]()] [[project page](https://zhengmianlun.github.io/publications/hapticsTexture.html)]<br>
 <span style="text-align: justify;">
-Shihan Lu, <b>Mianlun Zheng</b>, Matthew C. Fontaine, Stefanos Nikolaidis, Heather Culbertson. <i> Accepted to IEEE Transactions on Haptics. </i>
+Shihan Lu, <b>Mianlun Zheng</b>, Matthew C. Fontaine, Stefanos Nikolaidis, Heather Culbertson. <i> IEEE Transactions on Haptics, doi: 10.1109/TOH.2022.3173935. </i>
 </span> 
-
 
 ## 2021
 
