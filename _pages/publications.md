@@ -7,7 +7,7 @@ author_profile: true
 ## 2022
 
 <b>[Simulation of Hand Anatomy Using Medical Imaging]()</b><br> 
-[[paper]()] [[project page](https://zhengmianlun.github.io/publications/handAnatomy.html)]<br>
+[[paper]()] [[data]()] [[project page](https://zhengmianlun.github.io/publications/handAnatomy.html)]<br>
 <span style="text-align: justify;">
 <b>Mianlun Zheng</b>, Bohan Wang, Jingtao Huang, Jernej Barbič. <i> Accepted by SIGGRAPH Asia 2022. </i>
 </span> 
