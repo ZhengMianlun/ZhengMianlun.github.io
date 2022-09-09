@@ -9,7 +9,7 @@ author_profile: true
 <b>[Simulation of Hand Anatomy Using Medical Imaging]()</b><br> 
 [[paper]()] [[data]()] [[project page](https://zhengmianlun.github.io/publications/handAnatomy.html)]<br>
 <span style="text-align: justify;">
-<b>Mianlun Zheng</b>, Bohan Wang, Jingtao Huang, Jernej Barbič. <i> Accepted by SIGGRAPH Asia 2022. </i>
+<b>Mianlun Zheng</b>, Bohan Wang, Jingtao Huang, Jernej Barbič. <i> Accepted to ACM SIGGRAPH Asia 2022. </i>
 </span> 
 
 <b>[Preference-Driven Texture Modeling Through Interactive Generation and Search](https://ieeexplore.ieee.org/document/9772285)</b><br> 
@@ -23,7 +23,7 @@ Shihan Lu, <b>Mianlun Zheng</b>, Matthew C. Fontaine, Stefanos Nikolaidis, Heath
 <b>[A Deep Emulator for Secondary Motion of 3D Characters](https://arxiv.org/abs/2103.01261)</b><br> 
 [[paper](https://arxiv.org/abs/2103.01261)] [[code](https://github.com/ZhengMianlun/deep_emulator)] [[project page](https://zhengmianlun.github.io/publications/deepEmulator.html)]<br>
 <span style="text-align: justify;">
-<b>Mianlun Zheng</b>, Yi Zhou, Duygu Ceylan, Jernej Barbič. <i> Conference on Computer Vision and Pattern Recognition (CVPR), 2021. <b>(Oral Presentation)</b></i>
+<b>Mianlun Zheng</b>, Yi Zhou, Duygu Ceylan, Jernej Barbič. <i> Conference on Computer Vision and Pattern Recognition (CVPR), 2021. <b>(Oral Presentation, top 4% of submissions)</b></i>
 </span> 
 
 ## 2020
