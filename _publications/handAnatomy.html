@@ -16,10 +16,31 @@ author_profile: true
         <div class="authors">ACM SIGGRAPH Asia 2022</div>
         <div class="authors">Mianlun Zheng, Bohan Wang, Jingtao Huang, Jernej Barbi&#269.<br>  * equal first authors.</div>
         <div class="paper_link">
-            <a href="/publications/papers/handAnatomy.pdf" style="color:white"> [paper] </a>
-            <a href="" style="color:white"> [data] </a>
+            <a href="/publications/papers/handAnatomy.pdf" style="color:white"> [paper (.pdf)] </a>
+            <a href="/publications/papers/handAnatomy_supplementary.pdf" style="color:white"> [Supplementary material (.pdf)] </a>
+            <a href="http://viterbi-web.usc.edu/~jbarbic/handSystem/ZhengWangHuangBarbic-SIGGRAPH-Asia-2022-supplementary.zip" style="color:white"> [data: Meshes] </a>
+            <a href="https://viterbi-web.usc.edu/~jbarbic/hand-mri-dataset/" style="color:white"> [data: MRI] </a>
         </div>
     </div>
 </div>
 
-Coming soon!
+</span>  
+<div style="text-align: justify;font-size:15px">
+    <div style="float:left; clear: both;" align="center">
+        <img src="https://drive.google.com/uc?id=1MrH_5MZ4BsnrnRBPJmjzYyRNEx8Py5Gj" width="450" alt="" hspace="8"><br/> 
+<!--         <iframe src="https://drive.google.com/uc?id=1MrH_5MZ4BsnrnRBPJmjzYyRNEx8Py5Gj" width="250" height="100" style="border: none"></iframe> -->
+</div>
+<p class="abstract">
+<b>Abstract</b>: Physically based simulation is often combined with geometric mesh animation to add realistic soft-body dynamics to virtual
+characters. This is commonly done using constraint-based simulation whereby a soft-tissue simulation is constrained to geometric animation of a subpart (or otherwise proxy representation) of the character. We observe that standard constraint-based simulation suffers from an important flaw that limits the expressiveness of soft-body dynamics. Namely, under correct physics, the frequency and amplitude of soft-tissue dynamics arising from constraints (“inertial amplitude”) are coupled, and cannot be adjusted independently merely by adjusting the material properties of the model. This means that the space of physically based simulations is inherently limited and cannot capture all effects typically expected by computer animators. For example, animators need the ability to adjust the frequency, inertial amplitude, gravity sag and damping properties of the virtual character, independently from each other, as these are the primary visual characteristics of the soft-tissue dynamics. We demonstrate that independence can be achieved by transforming the equations of motion into a non-inertial reference coordinate frame, then
+scaling the resulting inertial forces, and then converting the equations of motion back to the inertial frame. Such scaling of inertia makes it possible for the animator to set the character’s inertial amplitude independently from frequency. We also provide exact controls for the amount of character’s gravity sag, and the damping properties. In our examples, we use linear blend skinning and pose-space deformation for geometric mesh animation, and the Finite Element Method for soft-body constrained simulation; but our idea of scaling inertial forces is general and applicable to other animation and simulation methods. We demonstrate our technique on several character examples.
+</p>
+<br/>
+</div>
+
+
+<div class="w-container">
+        <p class="text_italic">Our results: </p>
+        <video width="100%" height="100%" source="" src="https://drive.google.com/uc?id=1QgW2gofJOiJHRRNV7t2A1nDBHfiV9a3e" type="video/mp4" loop="true" autoplay="autoplay" controls muted></video>
+<!--         <iframe src="https://drive.google.com/file/d/1QgW2gofJOiJHRRNV7t2A1nDBHfiV9a3e/preview" style=" width: 100%; height: 100%; border: none;"></iframe> -->
+    </div>
