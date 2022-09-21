@@ -78,6 +78,7 @@ Qianqian Tong, Zhiyong Yuan, <b>Mianlun Zheng</b>, Xiangyun Liao, Weixu Zhu, Gui
 ## 2016
 
 <b>[A Novel Magnetic Levitation Haptic Device for Augmentation of Tissue Stiffness Perception](https://dl.acm.org/citation.cfm?id=2993377)</b><br/>
+[[paper (.pdf)](/publications/papers/magneticDevice.pdf)] <br>
 <span style="text-align: justify;">
 Qianqian Tong, Zhiyong Yuan, <b>Mianlun Zheng</b>, Guian Zhang, Xiangyun Liao. <i>VRST '16 Proceedings of the 22nd ACM Conference on Virtual Reality Software and Technology. <b> <span style="color:red">Best student paper award</span> </b>
 
