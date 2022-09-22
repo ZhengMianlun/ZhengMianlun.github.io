@@ -10,11 +10,8 @@ author_profile: true
 [[project page](https://zhengmianlun.github.io/publications/handAnatomy.html)] [[paper (.pdf)](/publications/papers/handAnatomy.pdf)] [[Supplementary material (.pdf)](/publications/papers/handAnatomy_supplementary.pdf)]<br>
 [[data: Meshes](http://viterbi-web.usc.edu/~jbarbic/handSystem/ZhengWangHuangBarbic-SIGGRAPH-Asia-2022-supplementary.zip)] [[data: MRI](https://viterbi-web.usc.edu/~jbarbic/hand-mri-dataset/)] <br>
 <span style="text-align: justify;">
-<b>Mianlun Zheng*</b>, Bohan Wang*, Jingtao Huang, Jernej Barbič. <i> Accepted to ACM SIGGRAPH Asia 2022.</i> * equal first authors.
-</span> 
-<span style="text-align: justify;">
 Bohan Wang*, <b>Mianlun Zheng*</b>, Jernej Barbič. <i>Pacific Graphics 2020 and Computer Graphics Forum.</i> * equal first authors.
-</span> The only <b> <span style="color:red"> Best paper award</span> </b> among all the PG2020 and PG2021 papers.
+</span> 
 
 <b>[Preference-Driven Texture Modeling Through Interactive Generation and Search](https://ieeexplore.ieee.org/document/9772285)</b><br> 
 [[project page](https://zhengmianlun.github.io/publications/hapticsTexture.html)] [[paper (.pdf)](/publications/papers/textureGeneration.pdf)] <br>
