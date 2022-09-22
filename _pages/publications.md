@@ -8,7 +8,7 @@ author_profile: true
 
 <b>[Simulation of Hand Anatomy Using Medical Imaging]()</b><br> 
 [[project page](https://zhengmianlun.github.io/publications/handAnatomy.html)] [[paper (.pdf)](/publications/papers/handAnatomy.pdf)] [[Supplementary material (.pdf)](/publications/papers/handAnatomy_supplementary.pdf)]<br>
-[[data: Meshes](http://viterbi-web.usc.edu/~jbarbic/handSystem/ZhengWangHuangBarbic-SIGGRAPH-Asia-2022-supplementary.zip)] [[data: MRI](https://viterbi-web.usc.edu/~jbarbic/hand-mri-dataset/)] <br>
+[[data: Meshes](https://viterbi-web.usc.edu/~jbarbic/handSystem/ZhengWangHuangBarbic-SIGGRAPH-Asia-2022-supplementary.zip)] [[data: MRI](https://viterbi-web.usc.edu/~jbarbic/hand-mri-dataset/)] <br>
 <span style="text-align: justify;">
 <b>Mianlun Zheng</b>*, Bohan Wang*, Jingtao Huang, Jernej Barbič. <i>ACM SIGGRAPH Asia 2022.</i> * equal first authors.
 </span> 
