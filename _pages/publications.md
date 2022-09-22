@@ -10,7 +10,7 @@ author_profile: true
 [[project page](https://zhengmianlun.github.io/publications/handAnatomy.html)] [[paper (.pdf)](/publications/papers/handAnatomy.pdf)] [[Supplementary material (.pdf)](/publications/papers/handAnatomy_supplementary.pdf)]<br>
 [[data: Meshes](http://viterbi-web.usc.edu/~jbarbic/handSystem/ZhengWangHuangBarbic-SIGGRAPH-Asia-2022-supplementary.zip)] [[data: MRI](https://viterbi-web.usc.edu/~jbarbic/hand-mri-dataset/)] <br>
 <span style="text-align: justify;">
-<b>Mianlun Zheng</b>, Bohan Wang*, Jingtao Huang, Jernej Barbič. <i>ACM SIGGRAPH Asia 2022.</i> * equal first authors.
+<b>Mianlun Zheng</b>*, Bohan Wang*, Jingtao Huang, Jernej Barbič. <i>ACM SIGGRAPH Asia 2022.</i> * equal first authors.
 </span> 
 
 <b>[Preference-Driven Texture Modeling Through Interactive Generation and Search](https://ieeexplore.ieee.org/document/9772285)</b><br> 
@@ -31,7 +31,7 @@ Shihan Lu, <b>Mianlun Zheng</b>, Matthew C. Fontaine, Stefanos Nikolaidis, Heath
 <b>[Adjustable Constrained Soft-Tissue Dynamics](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14127)</b><br> 
 [[project page](https://zhengmianlun.github.io/publications/adjustableDynamics.html)] [[paper (.pdf)](/publications/papers/adjustableDynamics.pdf)]<br>
 <span style="text-align: justify;">
-Bohan Wang*, <b>Mianlun Zheng*</b>, Jernej Barbič. <i>Pacific Graphics 2020 and Computer Graphics Forum.</i> * equal first authors.
+Bohan Wang*, <b>Mianlun Zheng</b>*, Jernej Barbič. <i>Pacific Graphics 2020 and Computer Graphics Forum.</i> * equal first authors.
 </span> The only <b> <span style="color:red"> Best paper award</span> </b> among all the PG2020 and PG2021 papers.
 
 <b>[Evaluating the Efficiency of Six-DoF Haptic Rendering-Based Virtual Assembly Training](https://ieeexplore.ieee.org/abstract/document/9140419)</b><br> 
