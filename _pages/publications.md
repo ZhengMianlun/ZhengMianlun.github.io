@@ -81,7 +81,17 @@ Qianqian Tong, Zhiyong Yuan, <b>Mianlun Zheng</b>, Xiangyun Liao, Weixu Zhu, Gui
 <b>[A Novel Magnetic Levitation Haptic Device for Augmentation of Tissue Stiffness Perception](https://dl.acm.org/citation.cfm?id=2993377)</b><br/>
 [[paper (.pdf)](/publications/papers/magneticDevice.pdf)] <br>
 <span style="text-align: justify;">
-Qianqian Tong, Zhiyong Yuan, <b>Mianlun Zheng</b>, Guian Zhang, Xiangyun Liao. <i>VRST '16 Proceedings of the 22nd ACM Conference on Virtual Reality Software and Technology. <b> <span style="color:red">Best student paper award</span> </b>
+Qianqian Tong, Zhiyong Yuan, <b>Mianlun Zheng</b>, Guian Zhang, Xiangyun Liao. <i>VRST '16 Proceedings of the 22nd ACM Conference on Virtual Reality Software and Technology. </i> <br>
+<b> <span style="color:red">Best student paper award</span> </b>
+
+
+## Patent
+
+Shihan Lu, Heather Culbertson, Matthew Fontaine, and Mianlun Zheng. <i>Interactive Texture
+Generation and Search System Driven by Human Preference.</i> U.S. Provisional Patent Application No. 63/184,659, filed May 6, 2021.
+
+Duygu Ceylan, Mianlun Zheng and Yi Zhou. <i>Predicting Secondary Motion of Multidimentional Objects Based on Local Patch Features.</i> U.S. Non-provisional Patent Application No. P10193-US/352994, filed July 25, 2019.
+
 
 
 
