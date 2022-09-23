@@ -3,6 +3,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
+* Teaching Assistant @ USC, Fall 2022<br/>
+  [CSCI 585: Database Systems](https://bytes.usc.edu/cs585/f22-d--a--t--a/home/index.html)<br/>
+  
 * Teaching Assistant @ USC, Spring 2022<br/>
   [CSCI 520: Computer Animation and Simulation](https://viterbi-web.usc.edu/~jbarbic/cs520-s22/)<br/>
   
