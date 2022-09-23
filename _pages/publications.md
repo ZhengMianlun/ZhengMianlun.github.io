@@ -85,7 +85,7 @@ Qianqian Tong, Zhiyong Yuan, <b>Mianlun Zheng</b>, Guian Zhang, Xiangyun Liao. <
 <b> <span style="color:red">Best student paper award</span> </b>
 
 
-## Patent
+## Patents
 
 Shihan Lu, Heather Culbertson, Matthew Fontaine, and Mianlun Zheng. <i>Interactive Texture
 Generation and Search System Driven by Human Preference.</i> U.S. Provisional Patent Application No. 63/184,659, filed May 6, 2021.
