@@ -16,7 +16,7 @@ author_profile: true
 <b>[Preference-Driven Texture Modeling Through Interactive Generation and Search](https://ieeexplore.ieee.org/document/9772285)</b><br> 
 [[project page](https://zhengmianlun.github.io/publications/hapticsTexture.html)] [[paper (.pdf)](/publications/papers/textureGeneration.pdf)] <br>
 <span style="text-align: justify;">
-Shihan Lu, <b>Mianlun Zheng</b>, Matthew C. Fontaine, Stefanos Nikolaidis, Heather Culbertson. <i> IEEE Transactions on Haptics, doi: 10.1109/TOH.2022.3173935. </i>
+Shihan Lu, <b>Mianlun Zheng</b>, Matthew C. Fontaine, Stefanos Nikolaidis, Heather Culbertson. <i> IEEE Transactions on Haptics, 15(3): 508-520, 2022. </i>
 </span> 
 
 ## 2021
@@ -37,7 +37,7 @@ Bohan Wang\*, <b>Mianlun Zheng</b>\*, Jernej Barbič. <i>Pacific Graphics 2020 a
 <b>[Evaluating the Efficiency of Six-DoF Haptic Rendering-Based Virtual Assembly Training](https://ieeexplore.ieee.org/abstract/document/9140419)</b><br> 
 [[project page](https://zhengmianlun.github.io/publications/virtualAssembly.html)] [[paper (.pdf)](/publications/papers/virtualAssembly.pdf)]<br>
 <span style="text-align: justify;">
-<b>Mianlun Zheng</b>, Danyong Zhao, Jernej Barbič. <i>IEEE Transactions on Haptics, 14(1): 212-224.</i>
+<b>Mianlun Zheng</b>, Danyong Zhao, Jernej Barbič. <i>IEEE Transactions on Haptics, 14(1): 212-224, 2021.</i>
 </span> 
 
 
