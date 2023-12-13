@@ -3,6 +3,10 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
+### Research intern at Meta Reality Labs, May 2023 - August 2023, Zurich Switzerland
+Managers: Dr. Ryan Goldade<br/>
+Topic: Differentiable simulation modeling of anatomically based human face expressions.
+
 ### Research intern at Meta Reality Labs, May 2022 - August 2022, Pittsburgh US
 Managers: Dr. Breannan Smith and Dr. Javier Romero <br/>
 Topic: Loose and dynamic clothing tracking
