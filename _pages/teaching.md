@@ -7,7 +7,7 @@ author_profile: true
   [CSCI 585: Database Systems](https://bytes.usc.edu/cs585/f23-Da-taaa/home/index.html)<br/>
   
 * Teaching Assistant @ USC, Spring 2023<br/>
-  [CSCI 585: Database Systems](https://viterbi-web.usc.edu/~jbarbic/cs420-s23/)<br/>
+  [CSCI 420: Computer Graphics](https://viterbi-web.usc.edu/~jbarbic/cs420-s23/)<br/>
   
 * Teaching Assistant @ USC, Fall 2022<br/>
   [CSCI 585: Database Systems](https://bytes.usc.edu/cs585/f22-d--a--t--a/home/index.html)<br/>
