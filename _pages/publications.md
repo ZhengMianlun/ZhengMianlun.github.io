@@ -16,7 +16,7 @@ author_profile: true
 <b>[Preference-Driven Texture Modeling Through Interactive Generation and Search](https://ieeexplore.ieee.org/document/9772285)</b><br> 
 [[project page](https://zhengmianlun.github.io/publications/hapticsTexture.html)] [[paper (.pdf)](/publications/papers/textureGeneration.pdf)] <br>
 <span style="text-align: justify;">
-Shihan Lu, <b>Mianlun Zheng</b>, Matthew C. Fontaine, Stefanos Nikolaidis, Heather Culbertson. <i> IEEE Transactions on Haptics, 15(3): 508-520, 2022. </i> <b>(ToH Best Paper Award finalist, 2022)</b> </span> 
+Shihan Lu, <b>Mianlun Zheng</b>, Matthew C. Fontaine, Stefanos Nikolaidis, Heather Culbertson. <i> IEEE Transactions on Haptics, 15(3): 508-520, 2022. </i> <b>((Best Paper Award Finalist of IEEE Transactions on Haptics in 2022 (one of two finalists))</b> </span> 
 
 ## 2021
 
