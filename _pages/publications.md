@@ -86,10 +86,12 @@ Qianqian Tong, Zhiyong Yuan, <b>Mianlun Zheng</b>, Guian Zhang, Xiangyun Liao. <
 
 ## Patents
 
+Duygu Ceylan, Mianlun Zheng and Yi Zhou. Predicting Secondary Motion of Multidimensional
+Objects Based on Local Patch Features. U.S. Non-provisional Patent, No. 11830138, issued on
+11/28/2023.
+
 Shihan Lu, Heather Culbertson, Matthew Fontaine, and Mianlun Zheng. <i>Interactive Texture
 Generation and Search System Driven by Human Preference.</i> U.S. Provisional Patent Application No. 63/184,659, filed May 6, 2021.
-
-Duygu Ceylan, Mianlun Zheng and Yi Zhou. <i>Predicting Secondary Motion of Multidimentional Objects Based on Local Patch Features.</i> U.S. Non-provisional Patent Application No. P10193-US/352994, filed July 25, 2019.
 
 
 
