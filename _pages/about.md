@@ -34,10 +34,10 @@ redirect_from:
 <!--   <img src="/images/siggraph2019.jpg" width="280"/> -->
 <!--   <iframe src="https://drive.google.com/file/d/1HimzV16RnBVuyyouuNFE_IFXTsDnctPx/preview" width="280" height="373" style="border: none"></iframe> -->
 <!--   <img src="https://drive.google.com/uc?id=1HimzV16RnBVuyyouuNFE_IFXTsDnctPx" width="280"/> -->
-  <img src="https://drive.google.com/uc?id=1q9rao1wfM44JSjUUWd_FqQ5oNP1cUsV2" width="280"/>
+  <img src="https://drive.google.com/uc?id=1q9rao1wfM44JSjUUWd_FqQ5oNP1cUsV2" width="360"/>
 </div>
 <div align="center">
-  2019 Siggraph @ Los Angeles, with my idol Lay Zhang.
+  Me, my husband, and our dog Arrow @ Santa Barbara, 2023.
 </div>
 
 
