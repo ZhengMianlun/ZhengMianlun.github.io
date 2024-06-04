@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](/files/CV_04_24.pdf) (Last updated: 04/24/2024)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](/files/CV_06_04.pdf) (Last updated: 06/04/2024)
