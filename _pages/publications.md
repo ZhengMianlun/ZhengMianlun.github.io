@@ -18,7 +18,7 @@ Generation and Search System Driven by Human Preference</i>. U.S. Provisional Pa
 <b>[Multi-Resolution Real-Time Deep Pose-Space Deformation](https://zhengmianlun.github.io/publications/fastDeformer.html)</b><br> 
 [[paper (.pdf)](/publications/papers/fastDeformer.pdf)] [[Runtime code]()] [[Training code]()] <br>
 <span style="text-align: justify;">
-<b>Mianlun Zheng</b>, Jernej Barbič. <I> Accepted to ACM SIGGRAPH Asia 2024 journal track.</i>.
+<b>Mianlun Zheng</b>, Jernej Barbič. <I> Accepted to ACM SIGGRAPH Asia 2024 journal track</i>.
 </span> 
 
 ## 2022
