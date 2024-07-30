@@ -4,13 +4,30 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+## Patents
+
+Duygu Ceylan, Mianlun Zheng and Yi Zhou. Predicting Secondary Motion of Multidimensional
+Objects Based on Local Patch Features. U.S. Non-provisional Patent, No. 11830138, issued on
+11/28/2023.
+
+Shihan Lu, Heather Culbertson, Matthew Fontaine, and Mianlun Zheng. <i>Interactive Texture
+Generation and Search System Driven by Human Preference.</i> U.S. Provisional Patent Application No. 63/184,659, filed May 6, 2021.
+
+## 2024
+<b>[Multi-Resolution Real-Time Deep Pose-Space Deformation](https://zhengmianlun.github.io/publications/fastDeformer.html)</b><br> 
+[[paper (.pdf)](/publications/papers/fastDeformer.pdf)] [[Runtime code]()]<br> [[Training code]()] <br>
+<span style="text-align: justify;">
+<b>Mianlun Zheng</b>, Jernej Barbič. <I> Accepted to ACM SIGGRAPH Asia 2024 journal track.</i>.
+</span> 
+
 ## 2022
 
 <b>[Simulation of Hand Anatomy Using Medical Imaging](https://zhengmianlun.github.io/publications/handAnatomy.html)</b><br> 
 [[paper (.pdf)](/publications/papers/handAnatomy.pdf)] [[Supplementary material (.pdf)](/publications/papers/handAnatomy_supplementary.pdf)]<br>
 [[data: Meshes](https://viterbi-web.usc.edu/~jbarbic/handSystem/ZhengWangHuangBarbic-SIGGRAPH-Asia-2022-supplementary.zip)] [[data: MRI](https://viterbi-web.usc.edu/~jbarbic/hand-mri-dataset/)] <br>
 <span style="text-align: justify;">
-<b>Mianlun Zheng</b>\*, Bohan Wang\*, Jingtao Huang, Jernej Barbič. <i>ACM SIGGRAPH Asia 2022.</i> * equal first authors.
+<b>Mianlun Zheng</b>\*, Bohan Wang\*, Jingtao Huang, Jernej Barbič. <i>ACM Transactions on Graphics 41(6) (SIGGRAPH Asia 2022).</i> * equal first authors.
 </span> 
 
 <b>[Preference-Driven Texture Modeling Through Interactive Generation and Search](https://zhengmianlun.github.io/publications/hapticsTexture.html)</b><br> 
@@ -82,16 +99,6 @@ Qianqian Tong, Zhiyong Yuan, <b>Mianlun Zheng</b>, Xiangyun Liao, Weixu Zhu, Gui
 <span style="text-align: justify;">
 Qianqian Tong, Zhiyong Yuan, <b>Mianlun Zheng</b>, Guian Zhang, Xiangyun Liao. <i>VRST '16 Proceedings of the 22nd ACM Conference on Virtual Reality Software and Technology. </i> <br>
 <b> <span style="color:red">Best student paper award</span> </b>
-
-
-## Patents
-
-Duygu Ceylan, Mianlun Zheng and Yi Zhou. Predicting Secondary Motion of Multidimensional
-Objects Based on Local Patch Features. U.S. Non-provisional Patent, No. 11830138, issued on
-11/28/2023.
-
-Shihan Lu, Heather Culbertson, Matthew Fontaine, and Mianlun Zheng. <i>Interactive Texture
-Generation and Search System Driven by Human Preference.</i> U.S. Provisional Patent Application No. 63/184,659, filed May 6, 2021.
 
 
 
