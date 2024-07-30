@@ -12,7 +12,7 @@ Objects Based on Local Patch Features</i>. U.S. Non-provisional Patent, No. 1183
 11/28/2023.
 
 Shihan Lu, Heather Culbertson, Matthew Fontaine, and Mianlun Zheng. <i>Interactive Texture
-Generation and Search System Driven by Human Preference.</i> U.S. Provisional Patent Application No. 11972052, issued on 04/30/2024.
+Generation and Search System Driven by Human Preference</i>. U.S. Provisional Patent, No. 11972052, issued on 04/30/2024.
 
 ## 2024
 <b>[Multi-Resolution Real-Time Deep Pose-Space Deformation](https://zhengmianlun.github.io/publications/fastDeformer.html)</b><br> 
