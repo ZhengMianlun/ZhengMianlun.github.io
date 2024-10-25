@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-* Ph.D Student &ensp;&ensp;&ensp;&ensp;&ensp;University of Southern California&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2018 - 2024
+* Ph.D Student &ensp;&ensp;&ensp;&ensp;&ensp;University of Southern California&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2018 - 2024
 
 * Master &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Wuhan University&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;2015 - 2018
 
