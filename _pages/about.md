@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-* My name is Mianlun Zheng (郑棉仑). I am a sixth-year Ph.D. student in the [Department of Computer Science](https://www.cs.usc.edu/) at [University of Southern California](https://www.usc.edu/). My advisor is Professor [Jernej Barbič](https://viterbi-web.usc.edu/~jbarbic/). Here is my CV: [Curriculum Vitae](/files/CV_01_2024.pdf).
+* My name is Mianlun Zheng (郑棉仑). I obtained my Ph.D. degree from [Department of Computer Science](https://www.cs.usc.edu/) at [University of Southern California](https://www.usc.edu/). My advisor is Professor [Jernej Barbič](https://viterbi-web.usc.edu/~jbarbic/). Here is my CV: [Curriculum Vitae](/files/CV_10_25.pdf).
 
 * I received my Bachelor's degree and Master's degree from [Wuhan University](https://en.whu.edu.cn/).
 
-* My research interest lies in digital humans, physics-based simulation and its integration with machine learning, and haptics.
+* My research interest lies in digital humans, AI animation, and haptics.
 
 <!---
 <div align="center">
