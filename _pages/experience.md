@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### Postdoctoral research scientist at Meta Reality Labs, October 2024 - Present, Pittsburgh, US
-Working Codec Avatars.
+Working on Codec Avatars.
 
 ### Research intern at Meta Reality Labs, May 2023 - August 2023, Zurich, Switzerland
 Manager: Dr. Ryan Goldade<br/>
