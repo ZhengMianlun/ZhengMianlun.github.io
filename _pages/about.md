@@ -13,7 +13,7 @@ redirect_from:
 
 * I received my Bachelor's degree and Master's degree from [Wuhan University](https://en.whu.edu.cn/).
 
-* My research interest lies in digital humans, AI animation, and haptics.
+* My research interests are digital humans, AI animation, physics-based simulation, and haptics.
 
 <!---
 <div align="center">
