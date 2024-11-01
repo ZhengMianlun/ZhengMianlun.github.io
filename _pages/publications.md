@@ -16,7 +16,6 @@ Generation and Search System Driven by Human Preference</i>. U.S. Provisional Pa
 
 ## 2024
 Ph.D. Thesis: <b>[Real-time Simulation of Hand Anatomy Using Medical Imaging](/publications/papers/thesis.pdf)</b>. Department of Computer Science, University of Southern California, October 2024.<br>
-[[paper (.pdf)](/publications/papers/thesis.pdf)]
 
 <b>[Multi-Resolution Real-Time Deep Pose-Space Deformation](https://zhengmianlun.github.io/publications/fastDeformer.html)</b><br> 
 [[paper (.pdf)](/publications/papers/fastDeformer.pdf)] [[Runtime code]()] [[Training code]()] <br>
