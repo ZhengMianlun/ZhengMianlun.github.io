@@ -21,7 +21,7 @@ Ph.D. Thesis: <b>[Real-time Simulation of Hand Anatomy Using Medical Imaging](/p
 <b>[Multi-Resolution Real-Time Deep Pose-Space Deformation](https://zhengmianlun.github.io/publications/fastDeformer.html)</b><br> 
 [[paper (.pdf)](/publications/papers/fastDeformer.pdf)] [[Runtime code]()] [[Training code]()] <br>
 <span style="text-align: justify;">
-<b>Mianlun Zheng</b>, Jernej Barbič. <I> Accepted to ACM SIGGRAPH Asia 2024 journal track</i>.
+<b>Mianlun Zheng</b>, Jernej Barbič. <i>ACM Transactions on Graphics 43(6) (SIGGRAPH Asia 2024).</i>
 </span> 
 
 ## 2022
