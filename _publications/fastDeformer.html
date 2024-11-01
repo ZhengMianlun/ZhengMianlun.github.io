@@ -22,18 +22,44 @@ author_profile: true
         </div>
     </div>
 </div>
-
-<!-- </span>  
+ 
 <div style="text-align: justify;font-size:15px">
     <div style="float:left; clear: both;" align="center">
         <img src="/publications/videos/handAnatomy.gif" width="250" alt="" hspace="8"><br/> 
 </div>
 <p class="abstract">
-<b>Abstract</b>: Precision modeling of the hand internal musculoskeletal anatomy has been largely limited to individual poses, and has not been connected into continuous volumetric motion of the hand anatomy actuating across the hand's entire range of motion. This is for a good reason, as hand anatomy and its motion are extremely complex and cannot be predicted merely from the anatomy in a single pose. We give a method to simulate the volumetric shape of hand's musculoskeletal organs to any pose in the hand's range of motion, producing external hand shapes and internal organ shapes that match ground truth optical scans and medical images (MRI) in multiple scanned poses. We achieve this by combining MRI images in multiple hand poses with FEM multibody nonlinear elastoplastic simulation. Our system models bones, muscles, tendons, joint ligaments and fat as separate volumetric organs that mechanically interact through contact and attachments, and whose shape matches medical images (MRI) in the MRI-scanned hand poses. The match to MRI is achieved by incorporating pose-space deformation and plastic strains into the simulation. We show how to do this in a non-intrusive manner that still retains all the simulation benefits, namely the ability to prescribe realistic material properties, generalize to arbitrary poses, preserve volume and obey contacts and attachments. We use our method to produce volumetric renders of the internal anatomy of the human hand in motion, and to compute and render highly realistic hand surface shapes. We evaluate our method by comparing it to optical scans, and demonstrate that we qualitatively and quantitatively substantially decrease the error compared to previous work. We test our method on five complex hand sequences, generated either using keyframe animation or performance animation using modern hand tracking techniques.
-</p>
+<b>Abstract</b>: We present a hard-real-time multi-resolution 
+mesh shape deformation technique for skeleton-driven soft-body characters.
+Producing mesh deformations at multiple levels of detail
+is very important in many applications in computer graphics.
+Our work targets applications where the multi-resolution
+shapes must be generated at fast speeds 
+(``hard-real-time'', e.g., a few milliseconds at most and preferably under 1 millisecond),
+as commonly needed in computer games, virtual reality and 
+Metaverse applications. We assume that the character mesh is
+driven by a skeleton, and that high-quality character shapes are available
+in a set of training poses originating from a high-quality (slow) rig such as volumetric FEM simulation.
+Our method combines multi-resolution analysis, mesh partition of unity, and neural networks, to
+learn the pre-skinning shape deformations in an arbitrary character pose.
+Combined with linear blend skinning, this makes it possible to reconstruct
+the training shapes, as well as interpolate and extrapolate them.
+Crucially, we simultaneously achieve this at hard real-time rates and at multiple mesh resolution levels.
+Our technique makes it possible to trade deformation quality for memory and computation speed, 
+to accommodate the strict requirements of modern real-time systems.
+Furthermore, we propose memory layout and code improvements to boost computation speeds.
+Previous methods for real-time approximations of quality shape deformations
+did not focus on hard real-time, or did not investigate the multi-resolution aspect of the problem.
+Compared to a ``naive'' approach of separately processing each hierarchical level of detail,
+our method offers a substantial memory reduction as well as computational speedups.
+It also makes it possible to construct the shape progressively level by level
+and interrupt the computation at any time, enabling graceful degradation of the deformation detail. 
+We demonstrate our technique on several examples,
+including a stylized human character, human hands, and 
+an inverse-kinematics-driven quadruped animal.</p>
 <br/>
 </div>
 
+<!-- </span> 
 <div class="w-container">
         <p class="text_italic">Our results: </p>
         <video width="100%" height="100%" source="" src="http://viterbi-web.usc.edu/~jbarbic/handSystem/ZhengWangHuangBarbic-SIGGRAPH-Asia-2022.mp4" type="video/mp4" loop="true" autoplay="autoplay" controls muted></video>
