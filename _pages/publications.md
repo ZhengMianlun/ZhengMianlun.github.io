@@ -7,8 +7,8 @@ author_profile: true
 
 ## Patents
 
-Duygu Ceylan, Mianlun Zheng and Yi Zhou. <i> Predicting Secondary Motion of Multidimensional
-Objects Based on Local Patch Features</i>. U.S. Non-provisional Patent, No. 11830138, issued on
+Duygu Ceylan, Mianlun Zheng and Yi Zhou. <b> [Predicting Secondary Motion of Multidimensional
+Objects Based on Local Patch Features](https://patents.google.com/patent/US11830138B2/en)</b>. U.S. Non-provisional Patent, No. 11830138, issued on
 11/28/2023.
 
 Shihan Lu, Heather Culbertson, Matthew Fontaine, and Mianlun Zheng. <i>Interactive Texture
@@ -16,7 +16,7 @@ Generation and Search System Driven by Human Preference</i>. U.S. Provisional Pa
 
 ## 2024
 Ph.D. Thesis: <b>[Real-time Simulation of Hand Anatomy Using Medical Imaging](/publications/papers/thesis.pdf)</b><br> 
-[[paper (.pdf)](/publications/papers/thesis.pdf)]
+[[paper (.pdf)](/publications/papers/thesis.pdf)]. Department of Computer Science, University of Southern California, October 2024.
 
 <b>[Multi-Resolution Real-Time Deep Pose-Space Deformation](https://zhengmianlun.github.io/publications/fastDeformer.html)</b><br> 
 [[paper (.pdf)](/publications/papers/fastDeformer.pdf)] [[Runtime code]()] [[Training code]()] <br>
