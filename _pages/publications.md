@@ -11,8 +11,7 @@ Duygu Ceylan, Mianlun Zheng and Yi Zhou. <b> [Predicting Secondary Motion of Mul
 Objects Based on Local Patch Features](https://patents.google.com/patent/US11830138B2/en)</b>. U.S. Non-provisional Patent, No. 11830138, issued on
 11/28/2023.
 
-Shihan Lu, Heather Culbertson, Matthew Fontaine, and Mianlun Zheng. <b> [Interactive Texture
-Generation and Search System Driven by Human Preference](https://patents.google.com/patent/US11972052B2/en)</b>. U.S. Provisional Patent, No. 11972052, issued on 04/30/2024.
+Shihan Lu, Heather Culbertson, Matthew Fontaine, and Mianlun Zheng. <b> [Interactive human preference driven virtual texture generation and search, and haptic feedback systems and methods](https://patents.google.com/patent/US11972052B2/en)</b>. U.S. Provisional Patent, No. 11972052, issued on 04/30/2024.
 
 ## 2024
 Ph.D. Thesis: <b>[Real-time Simulation of Hand Anatomy Using Medical Imaging](/publications/papers/thesis.pdf)</b>. Department of Computer Science, University of Southern California, October 2024.<br>
