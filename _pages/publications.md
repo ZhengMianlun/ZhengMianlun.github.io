@@ -17,7 +17,7 @@ Shihan Lu, Heather Culbertson, Matthew Fontaine, and Mianlun Zheng. <b> [Interac
 Ph.D. Thesis: <b>[Real-time Simulation of Hand Anatomy Using Medical Imaging](/publications/papers/thesis.pdf)</b>. Department of Computer Science, University of Southern California, October 2024.<br>
 
 <b>[Multi-Resolution Real-Time Deep Pose-Space Deformation](https://zhengmianlun.github.io/publications/fastDeformer.html)</b><br> 
-[[paper (.pdf)](/publications/papers/fastDeformer.pdf)] [[Runtime code]()] [[Training code]()] <br>
+[[paper (.pdf)](/publications/papers/fastDeformer.pdf)] [[Code and Supplementary material](https://viterbi-web.usc.edu/~jbarbic/fastDefo/ZhengBarbic-SIGGRAPH-Asia-2024-supplementaryMaterial.zip)]<br>
 <span style="text-align: justify;">
 <b>Mianlun Zheng</b>, Jernej Barbič. <i>ACM Transactions on Graphics 43(6) (SIGGRAPH Asia 2024).</i>
 </span> 
