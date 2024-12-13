@@ -22,40 +22,14 @@ author_profile: true
     </div>
 </div>
  
-<p class="abstract">
-<b>Abstract</b>: </p>
-<br/>
+</span>  
+<div style="text-align: justify;font-size:15px">
+    <div style="float:left; clear: both;" align="center">
+        <img src="/publications/images/fastDeformer.png" width="250" alt="" hspace="8"><br/> 
 </div>
 
 <p class="abstract">
-<b>Abstract</b>: We present a hard-real-time multi-resolution 
-mesh shape deformation technique for skeleton-driven soft-body characters.
-Producing mesh deformations at multiple levels of detail
-is very important in many applications in computer graphics.
-Our work targets applications where the multi-resolution
-shapes must be generated at fast speeds 
-(``hard-real-time'', e.g., a few milliseconds at most and preferably under 1 millisecond),
-as commonly needed in computer games, virtual reality and 
-Metaverse applications. We assume that the character mesh is
-driven by a skeleton, and that high-quality character shapes are available
-in a set of training poses originating from a high-quality (slow) rig such as volumetric FEM simulation.
-Our method combines multi-resolution analysis, mesh partition of unity, and neural networks, to
-learn the pre-skinning shape deformations in an arbitrary character pose.
-Combined with linear blend skinning, this makes it possible to reconstruct
-the training shapes, as well as interpolate and extrapolate them.
-Crucially, we simultaneously achieve this at hard real-time rates and at multiple mesh resolution levels.
-Our technique makes it possible to trade deformation quality for memory and computation speed, 
-to accommodate the strict requirements of modern real-time systems.
-Furthermore, we propose memory layout and code improvements to boost computation speeds.
-Previous methods for real-time approximations of quality shape deformations
-did not focus on hard real-time, or did not investigate the multi-resolution aspect of the problem.
-Compared to a ``naive'' approach of separately processing each hierarchical level of detail,
-our method offers a substantial memory reduction as well as computational speedups.
-It also makes it possible to construct the shape progressively level by level
-and interrupt the computation at any time, enabling graceful degradation of the deformation detail. 
-We demonstrate our technique on several examples,
-including a stylized human character, human hands, and 
-an inverse-kinematics-driven quadruped animal.
+<b>Abstract</b>: We present a hard-real-time multi-resolution mesh shape deformation technique for skeleton-driven soft-body characters. Producing mesh deformations at multiple levels of detail is very important in many applications in computer graphics. Our work targets applications where the multi-resolution shapes must be generated at fast speeds (``hard-real-time'', e.g., a few milliseconds at most and preferably under 1 millisecond), as commonly needed in computer games, virtual reality and Metaverse applications. We assume that the character mesh is driven by a skeleton, and that high-quality character shapes are available in a set of training poses originating from a high-quality (slow) rig such as volumetric FEM simulation. Our method combines multi-resolution analysis, mesh partition of unity, and neural networks, to learn the pre-skinning shape deformations in an arbitrary character pose. Combined with linear blend skinning, this makes it possible to reconstruct the training shapes, as well as interpolate and extrapolate them. Crucially, we simultaneously achieve this at hard real-time rates and at multiple mesh resolution levels. Our technique makes it possible to trade deformation quality for memory and computation speed, to accommodate the strict requirements of modern real-time systems. Furthermore, we propose memory layout and code improvements to boost computation speeds. Previous methods for real-time approximations of quality shape deformations did not focus on hard real-time, or did not investigate the multi-resolution aspect of the problem. Compared to a ``naive'' approach of separately processing each hierarchical level of detail, our method offers a substantial memory reduction as well as computational speedups. It also makes it possible to construct the shape progressively level by level and interrupt the computation at any time, enabling graceful degradation of the deformation detail. We demonstrate our technique on several examples, including a stylized human character, human hands, and  an inverse-kinematics-driven quadruped animal.
 </p>
 <br/>
 </div>
