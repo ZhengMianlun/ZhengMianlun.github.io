@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* My name is Mianlun Zheng (郑棉仑). I obtained my Ph.D. degree from [Department of Computer Science](https://www.cs.usc.edu/) at [University of Southern California](https://www.usc.edu/). My advisor is Professor [Jernej Barbič](https://viterbi-web.usc.edu/~jbarbic/). Here is my CV: [Curriculum Vitae](/files/CV_02_05.pdf).
+* My name is Mianlun Zheng (郑棉仑). I obtained my Ph.D. degree from [Department of Computer Science](https://www.cs.usc.edu/) at [University of Southern California](https://www.usc.edu/). My advisor is Professor [Jernej Barbič](https://viterbi-web.usc.edu/~jbarbic/). Here is my CV: [Curriculum Vitae](/files/CV_02_15.pdf).
 
 * I received my Bachelor's degree and Master's degree from [Wuhan University](https://en.whu.edu.cn/).
 
