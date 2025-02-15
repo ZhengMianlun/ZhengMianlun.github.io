@@ -11,4 +11,4 @@ redirect_from:
 
 [Click to View My Up-to-date Curriculum Vitae [PDF]](/files/CV_02_05.pdf) (Last updated: 02/05/2025)
 
-If you're interested in my work, feel free to email me at: mianlunz * at * gmail.com
+If you're interested in my work, feel free to email me at: mianlunz *at* gmail.com
