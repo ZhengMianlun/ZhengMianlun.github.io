@@ -3,19 +3,21 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
+### Research scientist @ Meta Robotics Studio, July 205 - Present, Pittsburgh, US
+Robotics simulation
 
-### Postdoctoral research scientist @ Meta Reality Labs, October 2024 - Present, Pittsburgh, US
-Working on Codec Avatars.
+### Postdoctoral research scientist @ Meta Reality Labs XRCIA, October 2024 - July 2025, Pittsburgh, US
+Photorealistic Codec Avatars.
 
-### Research intern @ Meta Reality Labs, May 2023 - August 2023, Zurich, Switzerland
+### Research intern @ Meta Reality Labs Research, May 2023 - August 2023, Zurich, Switzerland
 Manager: Dr. Ryan Goldade<br/>
 Topic: Learning-based human facial expression modeling; differentiable simulation.
 
-### Research intern @ Meta Reality Labs, May 2022 - August 2022, Pittsburgh, US
+### Research intern @ Meta Reality Labs Research, May 2022 - August 2022, Pittsburgh, US
 Managers: Dr. Breannan Smith and Dr. Javier Romero <br/>
 Topic: Loose and dynamic clothing tracking using physical priors.
 
-### Research intern @ Facebook Reality Labs, May 2021 - August 2021, Sausalito, US
+### Research intern @ Facebook Reality Labs Research, May 2021 - August 2021, Sausalito, US
 Manager: Dr. Tuur Styuck <br/>
 Topic: Virtual human body simulation and its interaction with the tight-fitting cloth.
 
