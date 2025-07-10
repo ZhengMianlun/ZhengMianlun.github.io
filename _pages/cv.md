@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](/files/CV_02_15.pdf) (Last updated: 02/15/2025)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](/files/CV_07_10.pdf) (Last updated: 07/10/2025)
 
 If you're interested in my work, feel free to email me at: mianlunz *at* gmail.com
