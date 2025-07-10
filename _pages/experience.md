@@ -3,7 +3,7 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-### Research scientist @ Meta, July 205 - Present, Pittsburgh, US
+### Research scientist @ Meta, July 205 - Present, Burlingame, US
 Meta Robotics Studio: Robotics simulation
 
 ### Postdoctoral research scientist @ Meta, October 2024 - July 2025, Pittsburgh, US
