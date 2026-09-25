@@ -13,7 +13,7 @@ redirect_from:
 
 * I received my Bachelor's degree and Master's degree from [Wuhan University](https://en.whu.edu.cn/).
 
-* My research interests are AI/ML, Generative photorealistic avatars, Physics-based simulation, AI animation, and Haptics.
+* My research interests are Robotics, Physics-based simulation, AI animation, and Haptics.
 
 
 
